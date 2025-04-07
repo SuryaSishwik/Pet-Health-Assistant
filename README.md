@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to your Pet-health-Assitant project
 
 ## Project info
 
@@ -8,7 +8,7 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
+**Use **
 
 Simply visit the [Lovable Project](https://lovable.dev/projects/f739ee16-bd2c-488d-9549-6ab9c28fd5f0) and start prompting.
 
